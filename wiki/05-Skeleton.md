@@ -27,7 +27,6 @@ Après avoir assisté à une overview du logiciel, pour chaque histoire utilisat
 
 ___
 
-
 ## 📑 Navigation
 
 Les frames doivent être mises en relation pour comprendre la navigation.
