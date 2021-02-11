@@ -97,22 +97,20 @@ Une histoire utilisateur est une brèves exigences ou requêtes écrites du poin
 
 > Une histoire utilisateur appartient au responsable produit qui est le seul à pouvoir la rédiger et la prioriser dans le product backlog.
 
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/03/07-User-Story.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/03/07-User-Story.png)
 
 Une histoire utilisateur doit avoir les qualité suivante:
 
-* Indépendante : chaque user-story doit être indépendante des autres au moins sur le sprint en cours.
-* Négociable : les détails doivent être négociables. C’est pour cela qu’on écrit une user-story en une seule petite phrase afin de ne pas forcer les détails
+* Indépendante: chaque user-story doit être indépendante des autres au moins sur le sprint en cours.
+* Négociable: les détails doivent être négociables. C’est pour cela qu’on écrit une user-story en une seule petite phrase afin de ne pas forcer les détails
 * Valeur: chaque user story doit apporter de la valeur business pour les métiers ou les clients
-* Estimable : chaque user-story doit être estimable par les équipes de développement ; pour cela, ces équipes doivent bien les comprendre.
-* Suffisamment petite : chaque user story doit être bien découpée afin d’être livrée au sein d’une seule session de travail.
-* Testable : il faut que toutes les user story soient testables.
+* Estimable: chaque user-story doit être estimable par les équipes de développement ; pour cela, ces équipes doivent bien les comprendre.
+* Suffisamment petite: chaque user story doit être bien découpée afin d’être livrée au sein d’une seule session de travail.
+* Testable: il faut que toutes les user story soient testables.
 
 ___
 
 
 👨🏻‍💻 Manipulation
 
-Après avoir identifié un responsable du produit, accompagnez le dans la rédaction d'histoires utilisateur complémentaires. 
-
-___
+Après avoir identifié un responsable du produit, accompagnez le dans la rédaction d'histoires utilisateur complémentaires.

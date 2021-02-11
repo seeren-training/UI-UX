@@ -17,7 +17,7 @@ Il s’agit du design de l’expérience utilisateur. Il est souvent confondu av
 
 L’UI design correspond au design de l’interface utilisateur, c’est-à-dire au design en général : les couleurs, la mise en page, les formes, les visuels, etc. A l’inverse, l’UX design n’est pas uniquement focalisé sur le design : la priorité est l’expérience utilisateur. Il s’agit d’anticiper les attentes des visiteurs, de rendre l’interface la plus ergonomique, intuitive, facile d’utilisation possible, en se basant sur les ressentis des users.
 
->L’UX design mêle ainsi des objectifs stratégiques, des paramètres technologiques et des problématiques design.
+> L’UX design mêle ainsi des objectifs stratégiques, des paramètres technologiques et des problématiques design.
 
 ___
 

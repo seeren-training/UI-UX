@@ -42,5 +42,3 @@ ___
 👨🏻‍💻 Manipulation
 
 En utilisant les moyens mis à disposition, exprimez les dépendances entre histoires utilisateur.
-
-___

@@ -43,12 +43,15 @@ Des icônes aux alertes, la librairie d'affichage et sa surcharge participent à
 
 Certains effets particuliers peuvent accompagner le message de votre expérience utilisateur.
 
-* [paper.js](http://paperjs.org/examples/chain/)
-* [LiquidDistortion](https://tympanus.net/Development/LiquidDistortion/)
-* [react-particles-js](https://rpj.bembi.org/#mask)
-* ...
+[Paper](http://paperjs.org/examples/chain/)
 
-Vous pouvez trouver des exemples d'interactions innovantes en naviguant sur [codePen](https://codepen.io/)
+[Liquid Distortion](https://tympanus.net/Development/LiquidDistortion/)
+
+[React Particles](https://rpj.bembi.org/#mask)
+
+Vous pouvez trouver des exemples d'interactions innovantes en naviguant sur codePen.
+
+[codePen](https://codepen.io/)
 
 ___
 
@@ -98,7 +101,5 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Implémentez le plan de votre expérience avec le logiciel AdobeXD ou autre logiciel ou au format HTML/CSS/JS
-
-___
+Implémentez le plan de votre expérience avec le logiciel AdobeXD ou autre logiciel ou au format HTML/CSS/JS.
 

@@ -27,11 +27,17 @@ Nous mettons l’accent sur leurs irritants et leurs enchantements ainsi que leu
 
 ### 🏷️ **Pourquoi**
 
-* **Partager la connaissance client**: porter la parole du client au sein de l’entreprise. Un incontournable quand on parle de culture customer centric ou d’entreprise orientée client.
+* Partager la connaissance client
 
-* **Personnaliser l'Expérience client**: on pourra définir une relation plus ou moins accompagnée ou en autonomie du client en fonction de son niveau d’expertise sur l’offre ou le service.
+Porter la parole du client au sein de l’entreprise. Un incontournable quand on parle de culture customer centric ou d’entreprise orientée client.
 
-* **Adapter la stratégie marketing et commerciale**: le dispositif marketing et commercial est revu en adaptant les canaux de distribution, le discours des vendeurs, le mode relationnel, le type de messages et les canaux de communication à chaque persona marketing.
+* Personnaliser l'Expérience client
+
+On pourra définir une relation plus ou moins accompagnée ou en autonomie du client en fonction de son niveau d’expertise sur l’offre ou le service.
+
+* Adapter la stratégie marketing et commerciale
+
+Le dispositif marketing et commercial est revu en adaptant les canaux de distribution, le discours des vendeurs, le mode relationnel, le type de messages et les canaux de communication à chaque persona marketing.
 
 ___
 
@@ -49,16 +55,18 @@ Observons les étapes pour arriver à cette implémentation.
 
 #### **Faire le point sur ce que l'on connais du client**
 
-* Recolter les données brutes
-    * CRM
-    * Web analytics
-    * Segmentation
-    * Reporting
+Recolter les données brutes
 
-* Recolter les données qualitatives
-    * Enquete de satisfaction
-    * E-Reputation
-    * Focus group
+* CRM
+* Web analytics
+* Segmentation
+* Reporting
+
+Recolter les données qualitatives
+
+* Enquete de satisfaction
+* E-Reputation
+* Focus group
 
 ####  **Intérogez vos collaborateurs**
 
@@ -72,7 +80,7 @@ Observons les étapes pour arriver à cette implémentation.
 
 En fonction du niveau d’expertise métier sur le service: **novice** à **expert**, ainsi que sur l'habitude de consommation: **occasionnel** à **accro**, les personnas sont définies sur ces axes de différenciation.
 
-Il serait temps de passer à la rédaction des *buyeurs journey* puis les portraits avec les attributs relevés.
+> Il serait temps de passer à la rédaction des *buyeurs journey* puis les portraits avec les attributs relevés.
 
 ___
 
