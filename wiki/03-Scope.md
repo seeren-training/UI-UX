@@ -30,7 +30,7 @@ Pour illustrer avec impact une idéation réussie je vous invite à observer le 
 
 * ar-cutpaste
 
-![ARCut]((https://raw.githubusercontent.com/seeren-training/UI-UX/master/wiki/resources/arcutpast.jpg)
+![image]((https://raw.githubusercontent.com/seeren-training/UI-UX/master/wiki/resources/arcutpast.jpg)
 
 [AR CUT PASTE](https://www.youtube.com/watch?v=-N-podTAY9Y)
 
