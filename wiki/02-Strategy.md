@@ -1,4 +1,4 @@
-# Utilisateurs
+# Strategy
 
 * 🔖 **Persona**
 * 🔖 **Structure**
@@ -92,4 +92,4 @@ ___
 
 ## 📑 Impact
 
-Les points de différenciation entre vos personas devrait créer l'apparition de contraintes sur vos histoires utilisateurs qui se traduisent par une prise en compte dans le scénario de vos wireframes.
+Les points de différenciation entre vos personas devrait créer l'apparition de contraintes qui se traduiront par une prise en compte dans le scénario de vos wireframes.

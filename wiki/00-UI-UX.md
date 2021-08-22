@@ -18,6 +18,6 @@ ___
 * [Scope](https://github.com/seeren-training/UI-UX/wiki/03)
 * [Structure](https://github.com/seeren-training/UI-UX/wiki/04)
 * [Skeleton](https://github.com/seeren-training/UI-UX/wiki/05)
-* [Plan](https://github.com/seeren-training/UI-UX/wiki/06)
+* [Surface](https://github.com/seeren-training/UI-UX/wiki/06)
 
 ___

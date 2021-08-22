@@ -1,4 +1,4 @@
-# Wireframes
+# Skeleton
 
 * 🔖 **Wireframes**
 * 🔖 **Navigation**

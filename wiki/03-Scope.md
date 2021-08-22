@@ -24,6 +24,23 @@ La majorité trouvent des idées en s'inspirant simplement lors d'une recherche 
 
 ![image](https://raw.githubusercontent.com/seeren-training/UI-UX/master/wiki/resources/ideation-ux.webp)
 
+### 🏷️ **Innovation**
+
+Pour illustrer avec impact une idéation réussie je vous invite à observer le produit suivant:
+
+* ar-cutpaste
+
+![ARCut]((https://raw.githubusercontent.com/seeren-training/UI-UX/master/wiki/resources/arcutpast.jpg)
+
+[AR CUT PASTE](https://www.youtube.com/watch?v=-N-podTAY9Y)
+
+La scéance ne s'est psa arrétée à une non fesabilité avant l'heure pour obtenir ce produit.
+___
+
+👨🏻‍💻 Manipulation
+
+Organisez puis participez à une séance d’idéation, rédigez sous forme d'une phrase une expérience utilisateur en rapport avec votre produit.
+
 ___
 
 ## 📑 Storyboarding
@@ -57,7 +74,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Après avoir organisé puis participé à une séance d’idéation, rédigez un storyboard pour un ou plusieurs objectif utilisateur.
+Rédigez un storyboard pour un ou plusieurs objectif utilisateur.
 
 ___
 
@@ -74,43 +91,8 @@ Le dessin va permettre de montrer l’environnement de l’utilisateur, de focal
 
 ![image](https://raw.githubusercontent.com/seeren-training/UI-UX/master/wiki/resources/story-example-2.png)
 
-
 ___
 
 👨🏻‍💻 Manipulation
 
 Dessinez un storyboard pour un ou plusieurs objectif utilisateur.
-
-___
-
-## 📑 User story
-
-Dans un cadre itératif les spécifications peuvent se limiter au backlog product rédigé par un responsable produit. L'étude d'un cadre de travail agile n'est pas notre préoccupation actuelle et nous allons synthétiser l'expression du besoin.
-
-Avant chaque séquence de développement la demande est complétée et se rédige de façon itérative également.
-
-> Découvrons certains termes en rapport avec le recueille de la demande.
-
-### 🏷️ **Définition**
-
-Une histoire utilisateur est une brèves exigences ou requêtes écrites du point de vue de l'utilisateur final,  elle doit avoir au minimum un rôle, une tache et un objectif. 
-
-> Une histoire utilisateur appartient au responsable produit qui est le seul à pouvoir la rédiger et la prioriser dans le product backlog.
-
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/03/07-User-Story.png)
-
-Une histoire utilisateur doit avoir les qualité suivante:
-
-* Indépendante: chaque user-story doit être indépendante des autres au moins sur le sprint en cours.
-* Négociable: les détails doivent être négociables. C’est pour cela qu’on écrit une user-story en une seule petite phrase afin de ne pas forcer les détails
-* Valeur: chaque user story doit apporter de la valeur business pour les métiers ou les clients
-* Estimable: chaque user-story doit être estimable par les équipes de développement ; pour cela, ces équipes doivent bien les comprendre.
-* Suffisamment petite: chaque user story doit être bien découpée afin d’être livrée au sein d’une seule session de travail.
-* Testable: il faut que toutes les user story soient testables.
-
-___
-
-
-👨🏻‍💻 Manipulation
-
-Après avoir identifié un responsable du produit, accompagnez le dans la rédaction d'histoires utilisateur complémentaires.

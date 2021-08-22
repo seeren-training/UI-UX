@@ -1,9 +1,9 @@
 # UX Design
 
 * 🔖 **Définition**
-* 🔖 **Conception centrée utilisateur**
 * 🔖 **Mode itératif**
-* 🔖 **Plan**
+* 🔖 **Conception centrée utilisateur**
+* 🔖 **Niveaux**
 
 ![image](https://raw.githubusercontent.com/seeren-training/UI-UX/master/wiki/resources/ux.png)
 
@@ -25,7 +25,7 @@ ___
 
 La conception centrée utilisateur ayant besoin de feed back régulier, la méthodologie de travail est agile et dans des frameworks itératifs comme SCRUM par exemple.
 
-L'ajout de fonctionnalité est donc régulière et expérience doit pouvoir maîtriser la complexité.
+L'ajout de fonctionnalité est donc régulière et l'expérience doit pouvoir maîtriser la complexité.
 
 >Prenons le cas de Amazone.
 
@@ -42,7 +42,6 @@ Après feed back, l'apparition des MEGA menu résolvent la complexité
 ![image](https://raw.githubusercontent.com/seeren-training/UI-UX/master/wiki/resources/amazone-3.png)
 
 Après feed back, le point d'entré de navigation devient la barre de recherche et les suggestions.
-
 
 ![image](https://raw.githubusercontent.com/seeren-training/UI-UX/master/wiki/resources/amazone-4.png)
 

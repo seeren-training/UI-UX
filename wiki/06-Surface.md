@@ -1,4 +1,4 @@
-# Plan
+# Surface
 
 * 🔖 **Design**
 * 🔖 **Plan**
@@ -19,15 +19,21 @@ La charte graphique, dont la dénomination correcte est cahier des normes graphi
 
 La section de cette dernière dédiée au logo doit contenir les dimensions sur les différents supports (site internet, site mobile, papier à entête, signature de mail…), ses couleurs en fonction d’où il se trouve, ses proportions…
 
+[How to design a logo](https://en.99designs.fr/blog/logo-branding/how-to-design-logo/)
+
 #### **La typographie**
 
 Utiliser une police sans serif n’enverra pas le même message qu’écrire les pages de votre site web en Times New Roman. Choisissez vos polices en connaissance de cause et renseignez-vous éventuellement à grand renfort de recherches ou sollicitez l’avis d’un professionnel pour utiliser une police qui correspond à votre identité et à votre secteur d’activité.
+
+[Pick the right typo](https://en.99designs.fr/blog/logo-branding/how-to-design-logo/#picktheright)
 
 #### **Les couleurs**
 
 Tout comme votre logo, les couleurs de votre site web doivent retranscrire l’identité de votre marque. Êtes-vous dynamique, technologique, authentique, accueillant, excentrique ?
 
->Choisissez 5 couleurs maximum qui vous définissent et intégrez-les harmonieusement à votre site web. Il ne s’agit pas de faire un festival de couleurs (à moins que ce soit là votre objectif) mais d’utiliser avec goût les différentes teintes de votre palette.
+> Choisissez 5 couleurs maximum qui vous définissent et intégrez-les harmonieusement à votre site web. Il ne s’agit pas de faire un festival de couleurs (à moins que ce soit là votre objectif) mais d’utiliser avec goût les différentes teintes de votre palette.
+
+[Attention to color](https://en.99designs.fr/blog/logo-branding/how-to-design-logo/#payattentionto)
 
 #### **Les images**
 
@@ -37,11 +43,20 @@ Les images de votre site web suivront-elles un style graphique particulier ? Plu
 
 ![image](https://raw.githubusercontent.com/seeren-training/UI-UX/master/wiki/resources/charte.jpg)
 
+___
+
+👨🏻‍💻 Manipulation
+
+Essayez vous à créez les éléments suivants de votre charte graphique, logo, typo, couleurs. Présentez les au format image comme illustré précédement.
+
+___
+
 ### 🏷️ **UI**
 
 Des icônes aux alertes, la librairie d'affichage et sa surcharge participent à la charte graphique.
 
-Certains effets particuliers peuvent accompagner le message de votre expérience utilisateur.
+Certains effets particuliers peuvent accompagner le message de votre expérience utilisateur. 
+Vous pouvez trouver des exemples d'interactions innovantes en naviguant sur codePen.
 
 [Paper](http://paperjs.org/examples/chain/)
 
@@ -49,15 +64,19 @@ Certains effets particuliers peuvent accompagner le message de votre expérience
 
 [React Particles](https://rpj.bembi.org/#mask)
 
-Vous pouvez trouver des exemples d'interactions innovantes en naviguant sur codePen.
-
 [codePen](https://codepen.io/)
+
+___
+
+👨🏻‍💻 Manipulation
+
+En accord avec votre charte graphique et dans l'objectif de déservir votre objectif d'expérience, déterminez des solutions techniques en selectionnant les librairies utiles à votre projet
 
 ___
 
 ## 📑 Plan
 
-Le plan est l'implémentation du squelette appliquée aux éléments d'interface réels.
+Le plan est l'implémentation du squelette appliquée aux éléments d'interface réels. Observons quelques notions indispensables à son élaboration.
 
 ### 🏷️ **Scale**
 
@@ -101,5 +120,5 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Implémentez le plan de votre expérience avec le logiciel AdobeXD ou autre logiciel ou au format HTML/CSS/JS.
+Implémentez le plan de votre expérience au format HTML/CSS/JS. Vous devez utiliser votre charte graphique et les librairies selectionnées pour donner vie aux wireframes graphiquement. Il ne sagit pas de produire du fonctionnel mais de le simuler, c'est une maquette aboutie.
 
